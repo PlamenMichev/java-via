@@ -16,6 +16,8 @@
       <sourceFolder url="file://$MODULE_DIR$/src/ClassesAndObjects/E405" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/ClassesAndObjects/E406" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/ClassesAndObjects/E407" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/ClassesAndObjects/E502" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/ClassesAndObjects/E503" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
