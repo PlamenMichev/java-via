@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Basics/Basics.iml" filepath="$PROJECT_DIR$/Basics/Basics.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyFirstModule/MyFirstModule.iml" filepath="$PROJECT_DIR$/MyFirstModule/MyFirstModule.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Workspace.iml" filepath="$PROJECT_DIR$/Workspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VIA.iml" filepath="$PROJECT_DIR$/VIA.iml" />
     </modules>
   </component>
 </project>
