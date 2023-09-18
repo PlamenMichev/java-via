@@ -21,6 +21,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/IfStatements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/WorkshopTest" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/WorkshopTest/Question2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/ForLoops" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

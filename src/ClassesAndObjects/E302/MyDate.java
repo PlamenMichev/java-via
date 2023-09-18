@@ -38,4 +38,9 @@ public class MyDate
   {
     return day + "/" + month + "/" + year;
   }
+
+  public boolean isLeapYear()
+  {
+    return this.year % 4 == 0;
+  }
 }
